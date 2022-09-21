@@ -1,0 +1,35 @@
+body {
+
+    font-size: 15pt;
+
+}
+
+.btn{
+
+  background-color:yellow;
+
+  height: 40px;
+
+  width: 90px;
+
+  position: relative;
+
+  left: 105px;
+
+top: 100px;
+
+  
+
+}
+
+.img{
+
+  border-radius: 50%;
+
+  position: relative;
+
+  right:-90px;
+
+  
+
+}
